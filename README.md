@@ -6,7 +6,7 @@ Code for CompBio coding Challange
 Features:
 - Barcodes of replicates and target sequence can be specfied
 - Accounts for frameshift of barcode sequences (+203 additional sequences profiled)
-- Avoids readingin entire fastq file
+- Avoids reading in entire fastq file
 
 Nice to have:
 - Account for mutations in target sequence and barcodes
